@@ -65,3 +65,6 @@ Name: Corona Virus Report
 Link: https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 Conclusion
 The analysis shows how COVID-19 spread across countries, highlights peak periods, and identifies high-risk regions. Visualization and dashboard help in understanding trends clearly and support better decision-making.
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/47dca64b-ff0f-4da2-b820-92ad826bede4" />
+
